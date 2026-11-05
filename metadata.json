@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Logbook PKL KOMINFO (Multi-User Isolated)",
+  "description": "Sistem informasi logbook kegiatan PKL Kominfo dengan arsitektur multi-user terisolasi (WHERE user_id), autentikasi nomor telepon & username, CRUD aman, dan simulator MySQL/XAMPP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
